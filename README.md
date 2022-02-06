@@ -1,7 +1,7 @@
 ## Try it
 Get the REST API to obtain json file for WindFlag testing
 
-[https://my-json-server.typicode.com/hectorcarreno/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/hectorcarreno/demo](https://my-json-server.typicode.com/hectorcarreno/demo)
 
 ## Use your own data
 
