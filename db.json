@@ -1,14 +1,16 @@
 {
-    "GetSingleStationResult": {
-        "ID": 0,
-        "Name": "westgipfel",
-        "Samples": [
-            {
-                "Name": "Medelvind",
-                "Value": "V25.0",
-                "Heading": 270,
-                "Unit": "km/h"
-            }
-        ]
+    {
+        "GetSingleStationResult": {
+            "ID": 0,
+            "Name": "westgipfel",
+            "Samples": [
+                {
+                    "Name": "Medelvind",
+                    "Value": "V25.0",
+                    "Heading": 270,
+                    "Unit": "km/h"
+                }
+            ]
+        }
     }
 }
